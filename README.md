@@ -1,4 +1,4 @@
-## I'm a Contributor of
+## I'm a Contributor to
 ### [Android/Now in Android](https://github.com/android/nowinandroid)
 <details>
 <summary>Details</summary>
