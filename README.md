@@ -20,6 +20,11 @@
 <details>
 <summary>Details</summary>
 
+  #### [basic-android-kotlin-compose-training-superheroes](https://github.com/google-developer-training/basic-android-kotlin-compose-training-superheroes)
+  ##### Review
+  &nbsp;&nbsp;&nbsp;&nbsp;• Google-developer-training/basic-android-kotlin-compose-training-superheroes#16   
+  </br></br>
+
   #### [basic-android-kotlin-compose-training-dessert-release](https://github.com/google-developer-training/basic-android-kotlin-compose-training-dessert-release)
   ##### Pull Request
   &nbsp;&nbsp;&nbsp;&nbsp;• Google-developer-training/basic-android-kotlin-compose-training-dessert-release#15   
