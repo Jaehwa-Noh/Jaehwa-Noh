@@ -12,9 +12,70 @@
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1223   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1238   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1258   
+  </br></br>
 
 </details>
 
+### [Google-developer-training/basic-android-kotlin-compose-training-dessert-release](https://github.com/google-developer-training/basic-android-kotlin-compose-training-dessert-release)
+<details>
+<summary>Details</summary>
+  
+  #### Pull Request
+  &nbsp;&nbsp;&nbsp;&nbsp;• Google-developer-training/basic-android-kotlin-compose-training-dessert-release#15   
+  </br></br>
+  
+</details>
+
+### [Google-developer-training/basic-android-kotlin-compose-training-inventory-app](https://github.com/google-developer-training/basic-android-kotlin-compose-training-inventory-app)
+<details>
+<summary>Details</summary>
+  
+  #### Pull Request
+  &nbsp;&nbsp;&nbsp;&nbsp;• Google-developer-training/basic-android-kotlin-compose-training-inventory-app#88   
+  </br></br>
+  
+</details>
+
+### [Google-developer-training/basic-android-kotlin-compose-training-mars-photos](https://github.com/google-developer-training/basic-android-kotlin-compose-training-mars-photos)
+<details>
+<summary>Details</summary>
+  
+  #### Pull Request
+  &nbsp;&nbsp;&nbsp;&nbsp;• Google-developer-training/basic-android-kotlin-compose-training-mars-photos#104   
+  </br></br>
+  
+</details>
+
+
+### [Google-developer-training/basic-android-kotlin-compose-training-sports](https://github.com/google-developer-training/basic-android-kotlin-compose-training-sports)
+<details>
+<summary>Details</summary>
+  
+  #### Pull Request
+  &nbsp;&nbsp;&nbsp;&nbsp;• Google-developer-training/basic-android-kotlin-compose-training-sports#18   
+  </br></br>
+  
+</details>
+
+### [Google-developer-training/basic-android-kotlin-compose-training-lunch-tray](https://github.com/google-developer-training/basic-android-kotlin-compose-training-lunch-tray)
+<details>
+<summary>Details</summary>
+  
+  #### Pull Request
+  &nbsp;&nbsp;&nbsp;&nbsp;• Google-developer-training/basic-android-kotlin-compose-training-lunch-tray#25   
+  </br></br>
+  
+</details>
+
+### [Google-developer-training/basic-android-kotlin-compose-training-dessert-clicker](https://github.com/google-developer-training/basic-android-kotlin-compose-training-dessert-clicker)
+<details>
+<summary>Details</summary>
+  
+  #### Pull Request
+  &nbsp;&nbsp;&nbsp;&nbsp;• Google-developer-training/basic-android-kotlin-compose-training-dessert-clicker#25   
+  </br></br>
+  
+</details>
 
 
 ### [Google-developer-training/basic-android-kotlin-compose-training-woof](https://github.com/google-developer-training/basic-android-kotlin-compose-training-woof)
@@ -23,6 +84,8 @@
   
   #### Pull Request
   &nbsp;&nbsp;&nbsp;&nbsp;• Google-developer-training/basic-android-kotlin-compose-training-woof#72   
+  </br></br>
+  
 </details>
 
 ### [grishka/NearDrop](https://github.com/grishka/NearDrop)
@@ -31,6 +94,8 @@
   
   #### Pull Request
   &nbsp;&nbsp;&nbsp;&nbsp;• grishka/NearDrop#121   
+  </br></br>
+  
 </details>
 
 
@@ -40,6 +105,8 @@
   
   #### Pull Request
   &nbsp;&nbsp;&nbsp;&nbsp;• Google-developer-training/basic-android-kotlin-compose-training-tip-calculator#150   
+  </br></br>
+  
 </details>
 
 
