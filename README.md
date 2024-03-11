@@ -9,6 +9,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1239   
   
   #### Pull Request
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1268   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1223   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1238   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1258   
