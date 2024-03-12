@@ -4,6 +4,7 @@
 <summary>Details</summary>
 
   #### Merged
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1258   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1240   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1247   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1239   
@@ -12,7 +13,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1268   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1223   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1238   
-  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1258   
   </br></br>
 
 </details>
