@@ -4,7 +4,7 @@
 <summary>Details</summary>
 
   #### Merged
-  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1296   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1291   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1275   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1258   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1247   
@@ -13,7 +13,7 @@
   
   #### Pull Request
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1309   
-  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1291   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1296   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1268   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1238   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1223   
