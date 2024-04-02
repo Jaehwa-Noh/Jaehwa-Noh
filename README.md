@@ -13,6 +13,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1239   
   
   #### Pull Request
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1350   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1318   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1309   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1296   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1268   
