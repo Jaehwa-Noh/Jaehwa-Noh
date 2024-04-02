@@ -1,5 +1,5 @@
 ## I'm a Contributor to
-### [android/nowinandroid](https://github.com/android/nowinandroid)
+### [Android/nowinandroid](https://github.com/android/nowinandroid)
 <details>
 <summary>Details</summary>
 
@@ -24,7 +24,7 @@
 
 </details>
 
-### [pinterest/ktlint](https://github.com/pinterest/ktlint)
+### [Pinterest/ktlint](https://github.com/pinterest/ktlint)
 <details>
 <summary>Details</summary>
 
@@ -35,7 +35,7 @@
 </details>
 
 
-### google-developer-training
+### Google Developer Training
 <details>
 <summary>Details</summary>
 
