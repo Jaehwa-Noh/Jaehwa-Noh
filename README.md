@@ -13,6 +13,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1239   
   
   #### Pull Request
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1361   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1350   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1318   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1309   
@@ -28,7 +29,7 @@
 <details>
 <summary>Details</summary>
 
-  #### Pull Request
+  #### Merged
   &nbsp;&nbsp;&nbsp;&nbsp;• pinterest/ktlint#2622   
   </br></br>
 
