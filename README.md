@@ -33,7 +33,7 @@
 
 </details>
 
-### [Pinterest/ktlint](https://github.com/pinterest/ktlint)
+### Pinterest/[ktlint](https://github.com/pinterest/ktlint)
 <details>
 <summary>Details</summary>
 
@@ -95,7 +95,7 @@
   
 </details>
 
-### [grishka/NearDrop](https://github.com/grishka/NearDrop)
+### grishka/[NearDrop](https://github.com/grishka/NearDrop)
 <details>
 <summary>Details</summary>
   
