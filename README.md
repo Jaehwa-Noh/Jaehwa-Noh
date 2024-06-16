@@ -14,6 +14,20 @@
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1239   
   
   ##### Pull Request
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1505   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1496   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1468   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1444   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1442   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1440   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1437   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1423   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1412   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1410   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1405   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1404   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1401   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1392   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1361   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1350   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1318   
@@ -33,6 +47,16 @@
 
 </details>
 
+### Gradle/[declarative-gradle](https://github.com/gradle/declarative-gradle)
+<details>
+<summary>Details</summary>
+
+  #### Merged
+  &nbsp;&nbsp;&nbsp;&nbsp;• gradle/declarative-gradle#95   
+  </br></br>
+
+</details>
+
 ### Pinterest/[ktlint](https://github.com/pinterest/ktlint)
 <details>
 <summary>Details</summary>
@@ -42,7 +66,6 @@
   </br></br>
 
 </details>
-
 
 ### Google Developer Training
 <details>
