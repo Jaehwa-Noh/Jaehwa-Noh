@@ -14,7 +14,12 @@
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1239   
   
   ##### Pull Request
-  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1505   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1545   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1541   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1532   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1531   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1519   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1517   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1496   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1468   
   &nbsp;&nbsp;&nbsp;&nbsp;• android/nowinandroid#1444   
@@ -39,10 +44,9 @@
   </br></br>
 
   #### 2. [sunflower](https://github.com/android/sunflower)
-  ##### Pull Request
-  &nbsp;&nbsp;&nbsp;&nbsp;• android/sunflower#966   
-  &nbsp;&nbsp;&nbsp;&nbsp;• android/sunflower#964   
-  &nbsp;&nbsp;&nbsp;&nbsp;• android/sunflower#963   
+  ##### Merged
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/sunflower#968   
+  &nbsp;&nbsp;&nbsp;&nbsp;• android/sunflower#966      
   </br></br>
 
 </details>
@@ -111,9 +115,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;• Google-developer-training/basic-android-kotlin-compose-training-woof#72   
   </br></br>
 
-  #### 9. [basic-android-kotlin-compose-training-tip-calculator](https://github.com/google-developer-training/basic-android-kotlin-compose-training-tip-calculator)
+  #### 9. [basic-android-kotlin-compose-training-workmanager](https://github.com/google-developer-training/basic-android-kotlin-compose-training-workmanager)
   ##### Pull Request
-  &nbsp;&nbsp;&nbsp;&nbsp;• Google-developer-training/basic-android-kotlin-compose-training-tip-calculator#150   
+  &nbsp;&nbsp;&nbsp;&nbsp;• Google-developer-training/basic-android-kotlin-compose-training-workmanager#36   
   </br></br>
   
 </details>
