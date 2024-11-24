@@ -1,12 +1,8 @@
 ## I'm a Contributor to
 ### Google/[jetpack-camera-app](https://github.com/google/jetpack-camera-app)
-
-### Android
-  #### 1. [nowinandroid](https://github.com/android/nowinandroid)
-  #### 2. [sunflower](https://github.com/android/sunflower)
-
+### Android/[nowinandroid](https://github.com/android/nowinandroid)
+### Android/[sunflower](https://github.com/android/sunflower)
 ### Gradle/[declarative-gradle](https://github.com/gradle/declarative-gradle)
-
 ### Pinterest/[ktlint](https://github.com/pinterest/ktlint)
 
 
