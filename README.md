@@ -2,6 +2,8 @@
 ### Google/[jetpack-camera-app](https://github.com/google/jetpack-camera-app)
 ### Android/[nowinandroid](https://github.com/android/nowinandroid)
 ### Android/[sunflower](https://github.com/android/sunflower)
+### google-developer-training/[basic-android-kotlin-compose-training-mars-photos](https://github.com/google-developer-training/basic-android-kotlin-compose-training-mars-photos)
+### google-developer-training/[basic-android-kotlin-compose-training-lunch-tray](https://github.com/google-developer-training/basic-android-kotlin-compose-training-lunch-tray)
 ### Gradle/[declarative-gradle](https://github.com/gradle/declarative-gradle)
 ### Pinterest/[ktlint](https://github.com/pinterest/ktlint)
 
